@@ -1,0 +1,48 @@
+Hi $firstName,
+
+The following is your grade report for CS Problem Set 8 - yours is <a href=$link>here</a> and a link to the key (for this problem set, just look at the isPrime() function here) is <a href=$keyLink>here</a>.
+
+LT 7: $lt7grade
+LT 8: $lt8grade
+
+
+
+
+My comments for you:
+
+$writtenFeedback
+
+
+
+
+Points earned by question:
+
+LT 7
+
+Correctly formats HTML (40): $correcthtmlformats40
+Headers (15): $headers15
+Paragraphs (15): $paragraphs15
+Images (15): $images15
+Links (15): $links15
+
+
+LT 8
+
+Correctly uses a function to test whether a number is prime (30): $correctisprime30
+Correctly loops to check numbers between 1 and 10,000 (50): $useslooptochecknums50
+Correctly prints numbers to file (10): $correctlyprintstofile10
+Comments code appropriately (10): $comments10
+
+
+
+If you have questions, feel free to email me or see me outside of class to discuss.
+
+
+Revisions will be accepted for this assignment and all other problem sets through 6/9/2017 (6/2/2017 for seniors!) for maximum credit of 90%. To complete a revision...
+1) Make a copy of your problem set document, and add """"- revision"""" to the end of the title.
+2) Improve your answers and code submissions. Your answers must be your own and cannot be copied and pasted from solutions or peers' work. Your code must be written entirely by you - note that this means you should not be copying and pasting *any* code.
+3) Email your revision directly to me (if you wish, use the Share button in Google Docs).
+
+
+Best,
+Mr. Flax
